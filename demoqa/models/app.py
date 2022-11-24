@@ -1,3 +1,3 @@
-from demoqa.models.pages.page_practice_form import RegistrationForm
+from demoqa.models.pages.page_practice_form import RegistrationUser
 
-registration_form = RegistrationForm()
+registration = RegistrationUser()
